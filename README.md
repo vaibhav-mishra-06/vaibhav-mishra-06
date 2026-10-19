@@ -14,7 +14,8 @@ Email Me 👉 ✉️ sanumishra9670@gmail.com For Collaboration/Project or Anyth
 - 
 - ⚡ *Fun fact:* I Love Tech and Tech Love Me
   
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vaibhav-mishra-06&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vaibhav-mishra-06&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaibhav_mishra__06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vaibhav Mishra) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@sanumishra7145) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanumishra@967014gmail.com) 
